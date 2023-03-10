@@ -5,8 +5,7 @@ use Comment;
 use DateTime;
 use User;
 
-require_once './Comment.php';
-require_once './User.php';
+
 require_once 'vendor/autoload.php';
 
 //задание на дату регистрации
